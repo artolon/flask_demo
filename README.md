@@ -1,1 +1,3 @@
-# flask_demo
+# Flask Demo
+
+These files are a result of walking through a Flask Demo.
